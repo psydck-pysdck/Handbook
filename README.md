@@ -14,9 +14,6 @@ CyberSec-Knowledgebase/
 ├── RedTeam/             # AD attacks, persistence, C2, bypasses
 ├── API-Testing/         # OWASP API Top 10, Postman, GraphQL, JWT
 ├── Mobile-Testing/      # Android, iOS, MobSF, Frida, OWASP MASVS
-├── payloads/            # Common attack payloads (XSS, SQLi, SSRF)
-├── flashcards/          # One-liners and cheat sheets for quick revision
-└── images/              # Architecture diagrams, attack chains
 ```
 
 ---
@@ -48,7 +45,7 @@ Includes:
 
 ### 🧠 `RedTeam/`  
 - Active Directory attack chains (from recon to persistence)  
-- Tools: Empire, Cobalt Strike, Mimikatz, BloodHound  
+- Tools: Empire, Mimikatz, BloodHound  
 - EDR bypasses, AMSI evasion, log cleaning  
 - OPSEC & stealth techniques
 
@@ -74,12 +71,6 @@ Includes:
 
 ---
 
-## 📜 License
-
-This repository is licensed under the **MIT License**.  
-Feel free to fork, clone, or contribute. **Attribution is appreciated.**
-
----
 
 ## 🤝 Contributions
 
@@ -90,10 +81,10 @@ If you'd like to improve documentation, correct something, or add a cheat sheet 
 
 ## 📫 Contact
 
-- **GitHub**: [yourprofile](https://github.com/yourprofile)  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-- **Blog/Website** *(optional)*: [yourdomain.com](https://yourdomain.com)
+- **GitHub**: (https://github.com/psydck-pysdck)
+- **Medium**: (https://medium.com/@psydck
+- **Youtube** (https://youtube.com/@psydck)
+
 
 ---
 
